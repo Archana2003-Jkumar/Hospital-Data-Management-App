@@ -312,6 +312,8 @@ function PatientDeletionComponent() {
 export default PatientDeletionComponent;
 ```
 ## OUTPUT
-Screenshot 2023-06-21 230441 Screenshot 2023-06-21 225923
+![image](https://github.com/Archana2003-Jkumar/Hospital-Data-Management-App/assets/93427594/459cc6fa-4637-4a44-a718-651af7a5e7df)
+![image](https://github.com/Archana2003-Jkumar/Hospital-Data-Management-App/assets/93427594/8b3f8a65-e771-438b-88dc-9484d03a4ba6)
+
 ## RESULT
 Thus a Hospital Management data is successfully created using React,SpringBoot and SQL.
